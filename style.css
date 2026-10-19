@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+header{
+    background-color:hotpink 
+}
+
+
+body{
+    background-color: #78d2fc;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+section {
+    background-color: #ff00e6;
+    padding: 20px;
+    flex: 1;
+}
